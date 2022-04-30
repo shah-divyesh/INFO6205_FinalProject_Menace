@@ -1,0 +1,647 @@
+2022-04-25 21:03:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:03:43 INFO  Log:17 - Human Won the Game
+2022-04-25 21:03:50 INFO  Log:17 - Match Draw
+2022-04-25 21:04:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:04:15 INFO  Log:17 - Match Draw
+2022-04-25 21:04:22 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:04:22 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:04:30 INFO  Log:17 - Match Draw
+2022-04-25 21:04:36 INFO  Log:17 - Human Won the Game
+2022-04-25 21:04:43 INFO  Log:17 - Match Draw
+2022-04-25 21:04:47 INFO  Log:17 - Human Won the Game
+2022-04-25 21:04:52 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:05:02 INFO  Log:17 - Match Draw
+2022-04-25 21:05:10 INFO  Log:17 - Human Won the Game
+2022-04-25 21:05:20 INFO  Log:17 - Match Draw
+2022-04-25 21:05:27 INFO  Log:17 - Human Won the Game
+2022-04-25 21:05:41 INFO  Log:17 - Match Draw
+2022-04-25 21:05:51 INFO  Log:17 - Human Won the Game
+2022-04-25 21:05:56 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:06:03 INFO  Log:17 - Human Won the Game
+2022-04-25 21:06:13 INFO  Log:17 - Match Draw
+2022-04-25 21:06:21 INFO  Log:17 - Match Draw
+2022-04-25 21:06:30 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:06:39 INFO  Log:17 - Match Draw
+2022-04-25 21:06:53 INFO  Log:17 - Match Draw
+2022-04-25 21:07:01 INFO  Log:17 - Human Won the Game
+2022-04-25 21:07:09 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:07:09 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:07:18 INFO  Log:17 - Match Draw
+2022-04-25 21:07:26 INFO  Log:17 - Match Draw
+2022-04-25 21:07:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:07:43 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:07:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:08:14 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:08:14 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:08:28 INFO  Log:17 - Human Won the Game
+2022-04-25 21:08:38 INFO  Log:17 - Match Draw
+2022-04-25 21:08:47 INFO  Log:17 - Match Draw
+2022-04-25 21:08:56 INFO  Log:17 - Human Won the Game
+2022-04-25 21:09:04 INFO  Log:17 - Match Draw
+2022-04-25 21:09:13 INFO  Log:17 - Match Draw
+2022-04-25 21:09:21 INFO  Log:17 - Match Draw
+2022-04-25 21:09:29 INFO  Log:17 - Match Draw
+2022-04-25 21:09:36 INFO  Log:17 - Match Draw
+2022-04-25 21:09:43 INFO  Log:17 - Human Won the Game
+2022-04-25 21:09:49 INFO  Log:17 - Human Won the Game
+2022-04-25 21:09:53 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:00 INFO  Log:17 - Human Won the Game
+2022-04-25 21:10:07 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:07 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:18 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:18 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:23 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:32 INFO  Log:17 - Match Draw
+2022-04-25 21:10:38 INFO  Log:17 - Human Won the Game
+2022-04-25 21:10:49 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:49 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:10:55 INFO  Log:17 - Human Won the Game
+2022-04-25 21:11:07 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:11:07 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:11:12 INFO  Log:17 - Human Won the Game
+2022-04-25 21:11:17 INFO  Log:17 - Human Won the Game
+2022-04-25 21:11:22 INFO  Log:17 - Human Won the Game
+2022-04-25 21:11:34 INFO  Log:17 - Match Draw
+2022-04-25 21:11:41 INFO  Log:17 - Match Draw
+2022-04-25 21:11:47 INFO  Log:17 - Human Won the Game
+2022-04-25 21:11:55 INFO  Log:17 - Match Draw
+2022-04-25 21:12:02 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:09 INFO  Log:17 - Match Draw
+2022-04-25 21:12:17 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:24 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:30 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:40 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:46 INFO  Log:17 - Human Won the Game
+2022-04-25 21:12:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:13:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:13:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:13:26 INFO  Log:17 - Match Draw
+2022-04-25 21:13:39 INFO  Log:17 - Match Draw
+2022-04-25 21:13:52 INFO  Log:17 - Match Draw
+2022-04-25 21:14:01 INFO  Log:17 - Human Won the Game
+2022-04-25 21:14:11 INFO  Log:17 - Human Won the Game
+2022-04-25 21:14:21 INFO  Log:17 - Match Draw
+2022-04-25 21:14:30 INFO  Log:17 - Match Draw
+2022-04-25 21:14:38 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:14:47 INFO  Log:17 - Human Won the Game
+2022-04-25 21:14:57 INFO  Log:17 - Match Draw
+2022-04-25 21:15:03 INFO  Log:17 - Human Won the Game
+2022-04-25 21:15:10 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:10 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:17 INFO  Log:17 - Human Won the Game
+2022-04-25 21:15:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:48 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:15:48 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:16:28 INFO  Log:17 - Human Won the Game
+2022-04-25 21:16:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:16:46 INFO  Log:17 - Match Draw
+2022-04-25 21:16:54 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:16:54 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:17:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:17:13 INFO  Log:17 - Human Won the Game
+2022-04-25 21:17:22 INFO  Log:17 - Human Won the Game
+2022-04-25 21:17:30 INFO  Log:17 - Human Won the Game
+2022-04-25 21:17:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:17:45 INFO  Log:17 - Match Draw
+2022-04-25 21:17:56 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:18:04 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:18:04 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:18:19 INFO  Log:17 - Match Draw
+2022-04-25 21:18:32 INFO  Log:17 - Match Draw
+2022-04-25 21:18:42 INFO  Log:17 - Match Draw
+2022-04-25 21:18:50 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:18:50 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:18:56 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:19:03 INFO  Log:17 - Human Won the Game
+2022-04-25 21:19:10 INFO  Log:17 - Human Won the Game
+2022-04-25 21:19:19 INFO  Log:17 - Match Draw
+2022-04-25 21:19:25 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:19:35 INFO  Log:17 - Human Won the Game
+2022-04-25 21:19:43 INFO  Log:17 - Match Draw
+2022-04-25 21:19:49 INFO  Log:17 - Match Draw
+2022-04-25 21:19:57 INFO  Log:17 - Match Draw
+2022-04-25 21:20:03 INFO  Log:17 - Human Won the Game
+2022-04-25 21:20:09 INFO  Log:17 - Match Draw
+2022-04-25 21:20:18 INFO  Log:17 - Human Won the Game
+2022-04-25 21:20:22 INFO  Log:17 - Human Won the Game
+2022-04-25 21:20:26 INFO  Log:17 - Human Won the Game
+2022-04-25 21:20:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:20:53 INFO  Log:17 - Human Won the Game
+2022-04-25 21:21:03 INFO  Log:17 - Human Won the Game
+2022-04-25 21:21:10 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:21:10 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:21:19 INFO  Log:17 - Human Won the Game
+2022-04-25 21:21:27 INFO  Log:17 - Human Won the Game
+2022-04-25 21:21:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:21:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:21:42 INFO  Log:17 - Human Won the Game
+2022-04-25 21:21:50 INFO  Log:17 - Match Draw
+2022-04-25 21:21:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:22:11 INFO  Log:17 - Match Draw
+2022-04-25 21:22:19 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:22:25 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:22:30 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:22:41 INFO  Log:17 - Human Won the Game
+2022-04-25 21:22:46 INFO  Log:17 - Human Won the Game
+2022-04-25 21:22:50 INFO  Log:17 - Human Won the Game
+2022-04-25 21:22:55 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:23:00 INFO  Log:17 - Human Won the Game
+2022-04-25 21:23:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:23:12 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:23:12 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:23:23 INFO  Log:17 - Match Draw
+2022-04-25 21:23:30 INFO  Log:17 - Human Won the Game
+2022-04-25 21:23:38 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:23:44 INFO  Log:17 - Human Won the Game
+2022-04-25 21:23:51 INFO  Log:17 - Human Won the Game
+2022-04-25 21:24:02 INFO  Log:17 - Human Won the Game
+2022-04-25 21:24:11 INFO  Log:17 - Human Won the Game
+2022-04-25 21:24:21 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:21 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:31 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:44 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:44 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:24:53 INFO  Log:17 - Human Won the Game
+2022-04-25 21:24:57 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:06 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:06 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:18 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:25 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:35 INFO  Log:17 - Match Draw
+2022-04-25 21:25:42 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:42 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:49 INFO  Log:17 - Human Won the Game
+2022-04-25 21:25:57 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:25:57 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:07 INFO  Log:17 - Human Won the Game
+2022-04-25 21:26:15 INFO  Log:17 - Match Draw
+2022-04-25 21:26:20 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:28 INFO  Log:17 - Match Draw
+2022-04-25 21:26:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:40 INFO  Log:17 - Human Won the Game
+2022-04-25 21:26:47 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:54 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:26:58 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:27:04 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:27:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:27:13 INFO  Log:17 - Human Won the Game
+2022-04-25 21:27:18 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:27:27 INFO  Log:17 - Match Draw
+2022-04-25 21:27:34 INFO  Log:17 - Match Draw
+2022-04-25 21:27:41 INFO  Log:17 - Match Draw
+2022-04-25 21:27:48 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:27:55 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:07 INFO  Log:17 - Human Won the Game
+2022-04-25 21:28:15 INFO  Log:17 - Human Won the Game
+2022-04-25 21:28:19 INFO  Log:17 - Human Won the Game
+2022-04-25 21:28:22 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:39 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:45 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:45 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:28:56 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:02 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:12 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:19 INFO  Log:17 - Human Won the Game
+2022-04-25 21:29:27 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:29:48 INFO  Log:17 - Match Draw
+2022-04-25 21:29:57 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:12 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:12 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:17 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:22 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:31 INFO  Log:17 - Match Draw
+2022-04-25 21:30:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:37 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:46 INFO  Log:17 - Match Draw
+2022-04-25 21:30:53 INFO  Log:17 - Match Draw
+2022-04-25 21:30:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:30:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:31:04 INFO  Log:17 - Match Draw
+2022-04-25 21:31:11 INFO  Log:17 - Match Draw
+2022-04-25 21:31:17 INFO  Log:17 - Match Draw
+2022-04-25 21:31:26 INFO  Log:17 - Match Draw
+2022-04-25 21:31:31 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:31:38 INFO  Log:17 - Match Draw
+2022-04-25 21:31:45 INFO  Log:17 - Match Draw
+2022-04-25 21:31:55 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:32:01 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:32:01 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:32:07 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:32:24 INFO  Log:17 - Match Draw
+2022-04-25 21:32:47 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:33:02 INFO  Log:17 - Match Draw
+2022-04-25 21:33:18 INFO  Log:17 - Match Draw
+2022-04-25 21:33:29 INFO  Log:17 - Match Draw
+2022-04-25 21:33:35 INFO  Log:17 - Match Draw
+2022-04-25 21:33:42 INFO  Log:17 - Match Draw
+2022-04-25 21:33:47 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:33:54 INFO  Log:17 - Match Draw
+2022-04-25 21:34:06 INFO  Log:17 - Match Draw
+2022-04-25 21:34:15 INFO  Log:17 - Match Draw
+2022-04-25 21:34:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:47 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:47 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:34:55 INFO  Log:17 - Match Draw
+2022-04-25 21:35:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:35:08 INFO  Log:17 - Match Draw
+2022-04-25 21:35:17 INFO  Log:17 - Match Draw
+2022-04-25 21:35:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:35:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:35:30 INFO  Log:17 - Match Draw
+2022-04-25 21:35:39 INFO  Log:17 - Human Won the Game
+2022-04-25 21:35:54 INFO  Log:17 - Match Draw
+2022-04-25 21:36:05 INFO  Log:17 - Match Draw
+2022-04-25 21:36:11 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:36:18 INFO  Log:17 - Match Draw
+2022-04-25 21:36:27 INFO  Log:17 - Match Draw
+2022-04-25 21:36:41 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:36:41 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:36:49 INFO  Log:17 - Match Draw
+2022-04-25 21:37:00 INFO  Log:17 - Match Draw
+2022-04-25 21:37:06 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:13 INFO  Log:17 - Match Draw
+2022-04-25 21:37:23 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:33 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:33 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:39 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:39 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:37:50 INFO  Log:17 - Human Won the Game
+2022-04-25 21:37:57 INFO  Log:17 - Match Draw
+2022-04-25 21:38:05 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:17 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:17 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:23 INFO  Log:17 - Human Won the Game
+2022-04-25 21:38:31 INFO  Log:17 - Match Draw
+2022-04-25 21:38:39 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:45 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:45 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:53 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:38:53 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:04 INFO  Log:17 - Human Won the Game
+2022-04-25 21:39:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:16 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:16 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:26 INFO  Log:17 - Match Draw
+2022-04-25 21:39:40 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:40 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:39:49 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:40:01 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:40:16 INFO  Log:17 - Match Draw
+2022-04-25 21:40:28 INFO  Log:17 - Match Draw
+2022-04-25 21:40:41 INFO  Log:17 - Match Draw
+2022-04-25 21:40:51 INFO  Log:17 - Match Draw
+2022-04-25 21:41:00 INFO  Log:17 - Human Won the Game
+2022-04-25 21:41:04 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:41:10 INFO  Log:17 - Match Draw
+2022-04-25 21:41:14 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:41:27 INFO  Log:17 - Match Draw
+2022-04-25 21:41:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:41:40 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:41:46 INFO  Log:17 - Match Draw
+2022-04-25 21:41:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:42:04 INFO  Log:17 - Human Won the Game
+2022-04-25 21:42:12 INFO  Log:17 - Human Won the Game
+2022-04-25 21:42:19 INFO  Log:17 - Match Draw
+2022-04-25 21:42:24 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:42:28 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:42:34 INFO  Log:17 - Match Draw
+2022-04-25 21:42:40 INFO  Log:17 - Match Draw
+2022-04-25 21:42:45 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:42:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:43:01 INFO  Log:17 - Human Won the Game
+2022-04-25 21:43:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:43:25 INFO  Log:17 - Match Draw
+2022-04-25 21:43:31 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:43:34 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:43:38 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:43:46 INFO  Log:17 - Match Draw
+2022-04-25 21:43:55 INFO  Log:17 - Human Won the Game
+2022-04-25 21:43:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:03 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:09 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:17 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:21 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:33 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:33 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:43 INFO  Log:17 - Match Draw
+2022-04-25 21:44:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:44:59 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:45:21 INFO  Log:17 - Match Draw
+2022-04-25 21:45:37 INFO  Log:17 - Match Draw
+2022-04-25 21:46:15 INFO  Log:17 - Match Draw
+2022-04-25 21:48:17 INFO  Log:17 - Match Draw
+2022-04-25 21:48:47 INFO  Log:17 - Human Won the Game
+2022-04-25 21:48:54 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:48:54 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:49:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 21:49:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:32:01 INFO  Log:17 - Human Won the Game
+2022-04-25 22:32:17 INFO  Log:17 - Match Draw
+2022-04-25 22:32:41 INFO  Log:17 - Match Draw
+2022-04-25 22:32:56 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:33:12 INFO  Log:17 - Human Won the Game
+2022-04-25 22:33:29 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:33:39 INFO  Log:17 - Human Won the Game
+2022-04-25 22:33:48 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:33:48 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:00 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:10 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:20 INFO  Log:17 - Match Draw
+2022-04-25 22:34:28 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:36 INFO  Log:17 - Match Draw
+2022-04-25 22:34:42 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:49 INFO  Log:17 - Menace Won the Game
+2022-04-25 22:34:56 INFO  Log:17 - Match Draw
+2022-04-25 23:12:28 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:12:36 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:12:36 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:12:40 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:12:46 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:12:53 INFO  Log:17 - Match Draw
+2022-04-25 23:13:00 INFO  Log:17 - Human Won the Game
+2022-04-25 23:13:05 INFO  Log:17 - Human Won the Game
+2022-04-25 23:13:08 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:16 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:23 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:23 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:28 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:35 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:42 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:13:53 INFO  Log:17 - Match Draw
+2022-04-25 23:14:03 INFO  Log:17 - Match Draw
+2022-04-25 23:14:37 INFO  Log:17 - Human Won the Game
+2022-04-25 23:14:44 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:14:51 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:15:01 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:15:01 INFO  Log:17 - Menace Won the Game
+2022-04-25 23:15:07 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:35:44 INFO  Log:17 - Match Draw
+2022-04-26 09:35:53 INFO  Log:17 - Match Draw
+2022-04-26 09:36:06 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:06 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:32 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:32 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:38 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:47 INFO  Log:17 - Human Won the Game
+2022-04-26 09:36:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:36:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:37:02 INFO  Log:17 - Human Won the Game
+2022-04-26 09:37:06 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:37:13 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:37:21 INFO  Log:17 - Match Draw
+2022-04-26 09:37:30 INFO  Log:17 - Match Draw
+2022-04-26 09:37:45 INFO  Log:17 - Match Draw
+2022-04-26 09:37:50 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:37:54 INFO  Log:17 - Human Won the Game
+2022-04-26 09:38:03 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:03 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:14 INFO  Log:17 - Match Draw
+2022-04-26 09:38:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:30 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:30 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:38:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:39:04 INFO  Log:17 - Match Draw
+2022-04-26 09:39:13 INFO  Log:17 - Match Draw
+2022-04-26 09:39:20 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:39:31 INFO  Log:17 - Match Draw
+2022-04-26 09:39:40 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:39:51 INFO  Log:17 - Match Draw
+2022-04-26 09:40:25 INFO  Log:17 - Match Draw
+2022-04-26 09:44:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:46:23 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:46:23 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:46:30 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:48:02 INFO  Log:17 - Match Draw
+2022-04-26 09:48:08 INFO  Log:17 - Match Draw
+2022-04-26 09:48:13 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:48:22 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:48:22 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:48:28 INFO  Log:17 - Human Won the Game
+2022-04-26 09:48:32 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:48:40 INFO  Log:17 - Match Draw
+2022-04-26 09:51:22 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:51:22 INFO  Log:17 - Menace Won the Game
+2022-04-26 09:52:59 INFO  Log:17 - Match Draw
+2022-04-26 12:38:50 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:38:56 INFO  Log:17 - Match Draw
+2022-04-26 12:39:07 INFO  Log:17 - Match Draw
+2022-04-26 12:39:16 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:39:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:39:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:39:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:39:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:39:54 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:06 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:13 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:22 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:30 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:40:50 INFO  Log:17 - Match Draw
+2022-04-26 12:41:01 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:41:08 INFO  Log:17 - Human Won the Game
+2022-04-26 12:41:16 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:41:22 INFO  Log:17 - Human Won the Game
+2022-04-26 12:41:32 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:41:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:41:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:41:53 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:01 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:21 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:21 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:51 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:42:59 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:43:08 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:43:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:45:52 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:45:57 INFO  Log:17 - Match Draw
+2022-04-26 12:46:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:46:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:46:46 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:46:46 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:46:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:46:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:03 INFO  Log:17 - Match Draw
+2022-04-26 12:47:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:20 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:20 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:33 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:47 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:58 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:47:58 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:41 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:41 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:48 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:48 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:48:56 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:49:10 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:49:10 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:49:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:49:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 12:49:54 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:05:51 INFO  Log:17 - Match Draw
+2022-04-26 13:06:01 INFO  Log:17 - Human Won the Game
+2022-04-26 13:06:07 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:06:14 INFO  Log:17 - Match Draw
+2022-04-26 13:06:20 INFO  Log:17 - Match Draw
+2022-04-26 13:06:33 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:06:42 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:06:50 INFO  Log:17 - Match Draw
+2022-04-26 13:06:56 INFO  Log:17 - Match Draw
+2022-04-26 13:07:08 INFO  Log:17 - Human Won the Game
+2022-04-26 13:07:15 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:07:21 INFO  Log:17 - Human Won the Game
+2022-04-26 13:07:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:07:50 INFO  Log:17 - Match Draw
+2022-04-26 13:07:58 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:08:05 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:08:14 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:08:20 INFO  Log:17 - Match Draw
+2022-04-26 13:08:34 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:08:44 INFO  Log:17 - Match Draw
+2022-04-26 13:09:00 INFO  Log:17 - Match Draw
+2022-04-26 13:09:16 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:09:24 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:09:33 INFO  Log:17 - Match Draw
+2022-04-26 13:09:38 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:09:49 INFO  Log:17 - Human Won the Game
+2022-04-26 13:10:00 INFO  Log:17 - Match Draw
+2022-04-26 13:10:06 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:10:19 INFO  Log:17 - Match Draw
+2022-04-26 13:10:31 INFO  Log:17 - Match Draw
+2022-04-26 13:10:38 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:10:46 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:10:46 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:01 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:01 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:09 INFO  Log:17 - Human Won the Game
+2022-04-26 13:11:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:11:33 INFO  Log:17 - Match Draw
+2022-04-26 13:11:44 INFO  Log:17 - Match Draw
+2022-04-26 13:12:02 INFO  Log:17 - Match Draw
+2022-04-26 13:12:12 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:12:25 INFO  Log:17 - Match Draw
+2022-04-26 13:12:35 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:12:48 INFO  Log:17 - Match Draw
+2022-04-26 13:12:59 INFO  Log:17 - Match Draw
+2022-04-26 13:13:05 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:13:05 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:13:16 INFO  Log:17 - Match Draw
+2022-04-26 13:13:28 INFO  Log:17 - Match Draw
+2022-04-26 13:13:40 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:13:51 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:13:51 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:14:01 INFO  Log:17 - Match Draw
+2022-04-26 13:14:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:14:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:14:17 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:14:17 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:14:24 INFO  Log:17 - Match Draw
+2022-04-26 13:14:38 INFO  Log:17 - Match Draw
+2022-04-26 13:15:00 INFO  Log:17 - Match Draw
+2022-04-26 13:15:08 INFO  Log:17 - Match Draw
+2022-04-26 13:15:18 INFO  Log:17 - Match Draw
+2022-04-26 13:15:34 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:15:44 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:15:44 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:15:58 INFO  Log:17 - Match Draw
+2022-04-26 13:16:12 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:16:41 INFO  Log:17 - Match Draw
+2022-04-26 13:16:52 INFO  Log:17 - Match Draw
+2022-04-26 13:17:05 INFO  Log:17 - Match Draw
+2022-04-26 13:17:11 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:17:15 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:17:23 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:17:29 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:17:39 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:17:43 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:20:19 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:20:26 INFO  Log:17 - Match Draw
+2022-04-26 13:28:27 INFO  Log:17 - Menace Won the Game
+2022-04-26 13:28:27 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:24:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:24:09 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:25:12 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:25:12 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:25:20 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:25:35 INFO  Log:17 - Match Draw
+2022-04-26 14:25:51 INFO  Log:17 - Human Won the Game
+2022-04-26 14:26:00 INFO  Log:17 - Human Won the Game
+2022-04-26 14:26:04 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:26:10 INFO  Log:17 - Human Won the Game
+2022-04-26 14:26:14 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:26:21 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:26:26 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:26:30 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:26:54 INFO  Log:17 - Match Draw
+2022-04-26 14:27:00 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:27:07 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:27:31 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:27:37 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:27:51 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:31:50 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:32:24 INFO  Log:17 - Human Won the Game
+2022-04-26 14:32:35 INFO  Log:17 - Menace Won the Game
+2022-04-26 14:32:42 INFO  Log:17 - Match Draw
+2022-04-26 14:32:56 INFO  Log:17 - Match Draw
+2022-04-26 14:33:07 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:17:42 INFO  Log:17 - Match Draw
+2022-04-27 10:17:52 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:17:52 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:17:59 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:18:06 INFO  Log:17 - Human Won the Game
+2022-04-27 10:18:21 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:18:21 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:18:45 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:18:54 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:21:08 INFO  Log:17 - Match Draw
+2022-04-27 10:21:37 INFO  Log:17 - Human Won the Game
+2022-04-27 10:21:48 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:21:55 INFO  Log:17 - Human Won the Game
+2022-04-27 10:27:31 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:27:36 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:27:46 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:27:46 INFO  Log:17 - Menace Won the Game
+2022-04-27 10:27:54 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:25:47 INFO  Log:17 - Match Draw
+2022-04-27 17:26:25 INFO  Log:17 - Human Won the Game
+2022-04-27 17:26:42 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:27:10 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:27:10 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:27:36 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:27:36 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:27:50 INFO  Log:17 - Match Draw
+2022-04-27 17:28:08 INFO  Log:17 - Match Draw
+2022-04-27 17:35:41 INFO  Log:17 - Match Draw
+2022-04-27 17:35:52 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:36:02 INFO  Log:17 - Menace Won the Game
+2022-04-27 17:36:02 INFO  Log:17 - Menace Won the Game
+2022-04-30 17:00:10 INFO  Log:17 - Match Draw
